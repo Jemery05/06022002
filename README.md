@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <style>
@@ -14,3 +15,4 @@
   <div class="flower"></div>
 </body>
 </html>
+
